@@ -1,24 +1,9 @@
-# README
+# Web Scrapper
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Clone the project and follow the below steps.
 
-Things you may want to cover:
+`bundle install` to install the gems.
 
-* Ruby version
+`rails s` to start Rails app server.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`cd frontend` and  `yarn install` to install React app dependencies and run `yarn start` to start React app.
