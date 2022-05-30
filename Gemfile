@@ -12,6 +12,15 @@ gem "sqlite3", "~> 1.4"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
+# To Handle CORS
+gem "rack-cors"
+
+# To Scrape a website
+gem 'watir', '~> 6.19', '>= 6.19.1'
+
+# To launch browsers
+gem 'webdrivers', '~> 4.6'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
